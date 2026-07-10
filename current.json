@@ -2,5 +2,5 @@
   "version": "1.0.1",
   "download_url": "https://github.com/capisoft-lib/PleaseInsertCassette2_Release/releases/download/v1.0.1/PleaseInsertCassette2-windows.zip",
   "sha256": "d94595b20b4410b6138dcf6d09a43a66081e2cf588e5f3f8add75c8552d351e2",
-  "notes": "Version initiale avec système de mise à jour Windows."
+  "notes": "Cabanon explorable, états visuels de la cave, pile en cuisine et lettre du grenier."
 }
