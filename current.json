@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/capisoft-lib/PleaseInsertCassette2_Release/releases/download/v1.0.3/PleaseInsertCassette2-windows-v1.0.3.zip",
-  "sha256": "a6644139bc9d9df075fcce1d4d6c5c0796099905c7026e100c17dcd49b1e659b",
-  "notes": "Cabanon explorable, états visuels de la cave, pile en cuisine, lettre du grenier et interface de mise à jour localisée."
+  "version": "1.0.4",
+  "download_url": "https://github.com/capisoft-lib/PleaseInsertCassette2/releases/download/v1.0.4/PleaseInsertCassette2-windows-v1.0.4.zip",
+  "sha256": "dc90ca589c8b9442f912f3ccddf7a56342b76c215e89178f6328441b6e3b5771",
+  "notes": "Chapitre 1 clarifié : le velux motive la montée au grenier, la lettre de Marcel se lit en séquence narrative, et les révélations visuelles du grenier sont progressives."
 }
