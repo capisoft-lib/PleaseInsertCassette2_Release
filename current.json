@@ -1,6 +1,6 @@
 {
   "version": "1.0.5",
-  "download_url": "https://github.com/capisoft-lib/PleaseInsertCassette2/releases/download/v1.0.5/PleaseInsertCassette2-windows-v1.0.5.zip",
+  "download_url": "https://github.com/capisoft-lib/PleaseInsertCassette2_Release/releases/download/v1.0.5/PleaseInsertCassette2-windows-v1.0.5.zip",
   "sha256": "7c3ff1c9638b46c380060efb121a3782ea69108a82994b2f7e2621abf878bfd4",
   "notes": "Correction du démarrage : le menu apparaît immédiatement et les ressources lourdes du grenier sont chargées après la sélection d'une sauvegarde."
 }
