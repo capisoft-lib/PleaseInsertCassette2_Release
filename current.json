@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/capisoft-lib/PleaseInsertCassette2_Release/releases/download/v1.0.6/PleaseInsertCassette2-windows-v1.0.6.zip",
-  "sha256": "1709c400f491133e664d237c547ab2a017d65d7315c54db60c4ddbafd44fb275",
-  "notes": "Le prologue guide désormais la découverte de la lettre sans révéler la solution ; la malle reste verrouillée jusqu'à la fin de la lecture et le Mistral reste découvert après son zoom."
+  "version": "1.0.7",
+  "download_url": "https://github.com/capisoft-lib/PleaseInsertCassette2_Release/releases/download/v1.0.7/PleaseInsertCassette2-windows-v1.0.7.zip",
+  "sha256": "8769a50a1468cd25733ce9b31633507c8a351674ab39015f2e29bf4f3895e94e",
+  "notes": "Moteur de progression et d'interactions unifié : chapitres fiables, boutons à usage unique, objets illustrés, journal et objectifs alignés, prologue complet autour du Commodore 64."
 }
