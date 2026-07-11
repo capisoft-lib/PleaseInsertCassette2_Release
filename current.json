@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/capisoft-lib/PleaseInsertCassette2/releases/download/v1.0.4/PleaseInsertCassette2-windows-v1.0.4.zip",
-  "sha256": "dc90ca589c8b9442f912f3ccddf7a56342b76c215e89178f6328441b6e3b5771",
-  "notes": "Chapitre 1 clarifié : le velux motive la montée au grenier, la lettre de Marcel se lit en séquence narrative, et les révélations visuelles du grenier sont progressives."
+  "version": "1.0.5",
+  "download_url": "https://github.com/capisoft-lib/PleaseInsertCassette2/releases/download/v1.0.5/PleaseInsertCassette2-windows-v1.0.5.zip",
+  "sha256": "7c3ff1c9638b46c380060efb121a3782ea69108a82994b2f7e2621abf878bfd4",
+  "notes": "Correction du démarrage : le menu apparaît immédiatement et les ressources lourdes du grenier sont chargées après la sélection d'une sauvegarde."
 }
